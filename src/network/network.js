@@ -5,6 +5,8 @@ export function request(options) {
     // 1.创建axios的实例对象
     const instance = axios.create({
       baseURL : "http://127.0.0.1",
+      //##### Interface of backend data source has been changed
+      //To get interface : wechat coderwhy001
       timeout: 5000
     })
 
