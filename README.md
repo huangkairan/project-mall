@@ -23,6 +23,3 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##### Interface of backend data source has been changed
-
-##### To get interface : wechat coderwhy001
